@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 233px;
+    height: 192px;
+    top: 11px;
+    left: 12px;
+    background-color: #FC0000;
+    position: absolute;
+    z-index: 4;
+}
+
+.box2 {
+    width: 233px;
+    height: 192px;
+    top: 107px;
+    left: 128px;
+    background-color: #05FC00;
+    position: absolute;
+    z-index: 3;
+}
+
+.box3 {
+    width: 233px;
+    height: 192px;
+    top: 203px;
+    left: 244px;
+    background-color: #000AFC;
+    position: absolute;
+}
+
+.box4 {
+    width: 233px;
+    height: 192px;
+    top: 253px;
+    left: 314px;
+    background-color: #F7FC00;
+    position: absolute;
+}
